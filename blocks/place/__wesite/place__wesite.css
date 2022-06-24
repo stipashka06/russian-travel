@@ -1,0 +1,8 @@
+.place__wesite {
+  align-self: end;
+}
+@media (max-width: 767px) {
+  .place__wesite {
+    padding: 0 16px 0;
+  }
+}

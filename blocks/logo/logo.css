@@ -1,0 +1,5 @@
+.logo {
+  display: flex;
+  background-image: url(../../images/logo/header-logo.svg);
+  background-size: cover;
+}

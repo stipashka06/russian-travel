@@ -1,0 +1,17 @@
+.cover {
+  display: flex;
+  padding: 92px 48px 0;
+  box-sizing: border-box;
+  width: 100%;
+  position: relative;
+}
+@media (max-width: 1279px) {
+  .cover {
+    padding: 92px 0 0;
+  }
+}
+@media (max-width: 767px) {
+  .cover {
+    padding: 66px 0 0;
+  }
+}

@@ -1,0 +1,26 @@
+.languages__lang {
+  margin: 0;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.17;
+}
+.languages__lang:link {
+  text-decoration: none;
+  color: #ffffff;
+}
+.languages__lang:visited {
+  color: #ffffff;
+}
+.languages__lang:hover {
+  text-decoration: underline;
+}
+@media (max-width: 767px) {
+  .languages__lang {
+    margin: 0;
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.11;
+  }
+}
