@@ -11,23 +11,20 @@
 }
 @media (max-width: 1279px) {
   .cover__background {
-    min-width: 1024px;
-    min-height: 640px;
     min-width: 100%;
+    min-height: 640px;
   }
 }
 @media (max-width: 1023px) {
   .cover__background {
-    min-width: 768px;
-    min-height: 480px;
     min-width: 100%;
+    min-height: 480px;
   }
 }
 @media (max-width: 767px) {
   .cover__background {
-    min-width: 320px;
-    min-height: 300px;
     min-width: 100%;
+    min-height: 300px;
   }
 }
 .cover__background::before {
