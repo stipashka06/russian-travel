@@ -3,7 +3,6 @@
   padding: 92px 48px 0;
   box-sizing: border-box;
   width: 100%;
-  position: relative;
 }
 @media (max-width: 1279px) {
   .cover {

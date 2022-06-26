@@ -1,8 +1,8 @@
-.place__wesite {
+.place__website {
   align-self: end;
 }
 @media (max-width: 767px) {
-  .place__wesite {
+  .place__website {
     padding: 0 16px 0;
   }
 }

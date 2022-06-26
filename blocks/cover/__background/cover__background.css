@@ -5,6 +5,7 @@
   gap: 32px;
   background-image: url(../../../images/cover-trains.jpg);
   background-size: cover;
+  background-position: center;
   min-width: 1184px;
   min-height: 740px;
   z-index: 1;
@@ -30,7 +31,6 @@
 .cover__background::before {
   content: "";
   background-color: #2a2c2f;
-  background-size: cover;
   opacity: 0.3;
   position: absolute;
   min-width: 100%;
@@ -38,6 +38,5 @@
   z-index: 2;
 }
 .cover__background:hover::before {
-  content: "";
   opacity: 0.8;
 }
