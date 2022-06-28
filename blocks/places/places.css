@@ -13,6 +13,7 @@
 @media (max-width: 1023px) {
   .places {
     padding: 88px 24px 0;
+    gap: 73px;
   }
 }
 @media (max-width: 767px) {
